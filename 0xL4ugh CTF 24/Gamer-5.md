@@ -10,7 +10,7 @@ Exmaple: 0xL4ugh{C:**\fileName.ext_0_127.0.0.1:1337_HackerAwyyy_DD-MM-YYYY_HH:MM
 
 So. I have a file from the first task "Gamer-1".
 It's a zip archive which I'll use to find the answers.
-
+I was working with logs and files of the victim system
 
 
 <h2>Solution:</h2>
