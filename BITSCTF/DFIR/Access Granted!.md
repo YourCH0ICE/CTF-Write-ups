@@ -16,12 +16,15 @@ It was a simply to complite this task, because I undertood that I had find the N
 
 <h3>Step 2:</h3>
 
-Then we can use the ```https://crackstation.net/``` to crack this hash and get the plain text.
+Then we can use the ```https://crackstation.net/``` to crack this hash and get the plain text or the tool ```hashcat``` designed to using in command promt.
 
 ![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/7c65d792-42e6-4c09-8e33-c82fbf3e2431)
 
-<h3>The flag </h3>
+After cracking we got the next password: ```adolfhitlerrulesallthepeople```.
 
+<h3>The flag: </h3>
+
+```BITSCTF{adolfhitlerrulesallthepeople}```
 
 
 
