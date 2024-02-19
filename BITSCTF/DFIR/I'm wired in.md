@@ -11,6 +11,8 @@
 So, when I had read the task I understood that I have to determine which keys he pressed. But I had no clue how to do it, 'cause I have never worked with it. 
 In one moment via scrolling the system files I find the strange .pcap file.
 
+![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/36a35ead-f9ae-48dc-920b-c40216f133a4)
+
 ![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/bb479863-d439-41cb-bc6b-fe9a303ca5ff)
 
 <h2>Step 2:</h2>
