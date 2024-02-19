@@ -8,5 +8,10 @@
 
 <h3>Step 1:</h3>
 
+So, when I had read the task I understood that I have to determine which keys he pressed. But I had no clue how to do it, 'cause I have never worked with it. 
+In one moment via scrolling the system files I find the strange .pcap file.
+
+
+
 
 
