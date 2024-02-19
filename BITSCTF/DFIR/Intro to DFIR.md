@@ -6,7 +6,7 @@
 ![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/9b60329b-74f2-4db2-9047-494e98748215)
 
 
-<h3>The flag:</h3>
+<h2>The flag:</h2>
 
 ```BITSCTF{DFIR_r0ck55}``` 
 
