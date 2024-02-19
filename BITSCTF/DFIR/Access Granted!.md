@@ -22,7 +22,7 @@ Then we can use the ```https://crackstation.net/``` to crack this hash and get t
 
 After cracking we got the next password: ```adolfhitlerrulesallthepeople```.
 
-<h3>The flag: </h3>
+<h2>The flag: </h2>
 
 ```BITSCTF{adolfhitlerrulesallthepeople}```
 
