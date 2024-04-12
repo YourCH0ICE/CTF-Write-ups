@@ -24,6 +24,10 @@ And then I used the name of the place to find it on the map.
 
 ![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/dfdb626e-74b6-48b8-8651-de22c3f87d89)
 
+<h2>The flag:</h2>
+
+```swampCTF{43 1/2 Broadway St, Asheville, NC 28801}```
+
 
 
 
