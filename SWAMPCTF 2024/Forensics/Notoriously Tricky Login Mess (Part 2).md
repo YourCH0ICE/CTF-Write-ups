@@ -4,11 +4,11 @@
 
 <h2>Solution:</h2>
 
-It was the most hard task of the Forensics category. I know that we have to recovere the NTLMv2 hash of the the user ```adamkadaban``` because we saw the NTLMv2 auth, but I had no clue how to solve this...
+It was the most hard task of the Forensics category. I know that we have to recover the NTLMv2 hash of the the user ```adamkadaban``` because we saw the NTLMv2 auth, but I had no clue how to solve this...
 
 ![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/176ede8e-589a-4049-9dd9-f9b3f2aeca11)
 
-But at one moment I understood that we can recover this NTLMv2 by using the next packets:
+But at the one moment I understood that we can recover this NTLMv2 by using the next packets:
 
 ![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/3729b6f5-a6b4-47c7-8785-6186de5f2da9)
 
@@ -46,6 +46,33 @@ Let's start.
 After finding all the values we get the next file:
 
 ![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/5e756bf8-dda4-4586-abf5-4bbcb0da05f5)
+
+Then we have to change this file:
+
+![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/b6c03f76-7737-4980-81ee-a92d1d043f39)
+
+It looks like NTLM hash, we have to crack it. Let's try.
+
+<h3>Step 3:</h3>
+
+![image](https://github.com/YourCH0ICE/CTF-Write-ups/assets/127401530/fb596d71-997b-4bbf-8ef3-f62c4ba05e67)
+
+Wow! It's our password. Cool task!
+
+<h2>Flag:</h2>
+
+```swampCTF{emilyyoudontknowmypassword}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
