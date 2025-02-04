@@ -24,4 +24,4 @@ U can also use the ```exiftools``` to find ```Longtitude``` and ```Latitude```.
 
 <h2>The flag:</h2>
 
-```ectf{Cascades_de_Daramy}```
+```ectf{Cascades_de_Caramy}```
