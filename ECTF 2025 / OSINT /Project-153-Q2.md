@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/205b812b-0474-4a5b-93e0-0f8afe462a54)
 
-<h2>Solution 1: </h2>
+<h2>Solution: </h2>
 
 <h3>Step 1:</h3>
 
