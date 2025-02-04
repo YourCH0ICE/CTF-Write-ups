@@ -14,7 +14,7 @@ Let's look on photo.
 
 <h3>Step 2:</h3>
 
-Let's use the Google.
+Let's use the Google lense.
 
 ![image](https://github.com/user-attachments/assets/f8dfee3e-66ef-4e33-95a8-ff52ec91e864)
 
