@@ -8,6 +8,8 @@ It was a long video on YouTube.
 
 My task was to find the place where the village of Wintergatan is located
 
+<h2>Solution 1: </h2>
+
 <h3>Step 1:</h3>
 
 For the most part, the video has no important information about geolocation, except for the following timelines:
