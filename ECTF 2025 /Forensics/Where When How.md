@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/197394e9-2a4c-4c07-b14a-8d764e6e7ee6)<h1>Where When How</h1>
+<h1>Where When How</h1>
 
 ![image](https://github.com/user-attachments/assets/3db9b11b-0341-4769-bd6a-884286f9028e)
 
